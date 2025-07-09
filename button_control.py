@@ -63,7 +63,7 @@ def button_control_thread():
             update_comfort_led()
             last_comfort_mode_shown = state.comfort_mode
             if state.menu_state == "BLOQUEADO":
-                np[0] = (3, 0, 5)
+                np[0] = (3, 0, 0)
                 np.write()
 
         # === Atualização periódica de LED no modo OPERATIONAL ===
