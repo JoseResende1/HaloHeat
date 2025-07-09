@@ -1,0 +1,13 @@
+{
+    "main.py": "13bdfc611d42af02501162057e5faf4b6d2bc7f5f34dabf2005cc6c43781e149",
+    "regulation.py": "2595f1ee5d997163e8164745e0a0444f4b13f73ab4de258afcfb3c47431f2647",
+    "settings.py": "ddd1443dc75c58f940b48025d7baa3ceb199061954bb62708e85be2ee7eb6910",
+    "state.py": "f1caa74b262cf3b5b425cd210e2244e2336def4a4d68496f6cf51263f2ac3ab2",
+    "temperature_sensor.py": "7b9d8d25dc9843f73b0c744ebc946f454e06d4c7e485cdeeceed61fac09be655",
+    "triac_control.py": "d45081d06e02c3b7fdc235dec07c401bad8c73867803b04bb04c510320c09f7f",
+    "wifi_manager.py": "0d54800c5676981993a32f7012ff9bc7bcc045242136b83d0d982fdb0c4a0147",
+    "button_control.py": "793b41d30fc2aed2d1ccab8f985f9104cd0a0fc314256de821761563cb2fd9eb",
+    "captive_portal.py": "974c68080eaff22adda3fe21d58a5d595e92d086d622bb339e5fff84b7d5cb57",
+    "server.py": "311e33b94691373349adc6c2c51e2048cd646fa2c5df9baf5a517827adc0f1bd",
+    "config.py": "0d464a55ace1c6d43f0da7be57ce65349dd12778e09ae3107e7390521a6cb838"
+}
