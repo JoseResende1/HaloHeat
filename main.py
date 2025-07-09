@@ -24,7 +24,7 @@ def main():
     # Inicia as threads do TRIAC, botão e temperatura
     _thread.start_new_thread(triac_control.triac_control_thread, ())
     _thread.start_new_thread(button_control.button_control_thread, ())
-    #_thread.start_new_thread(temperature_sensor.temperature_thread, ())
+    _thread.start_new_thread(temperature_sensor.temperature_thread, ())
 
     if wifi_active:
         print("[ESP32] Sistema iniciado com Wi-Fi!")
