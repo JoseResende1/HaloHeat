@@ -5,8 +5,8 @@
     "state.py": "f1caa74b262cf3b5b425cd210e2244e2336def4a4d68496f6cf51263f2ac3ab2",
     "temperature_sensor.py": "7b9d8d25dc9843f73b0c744ebc946f454e06d4c7e485cdeeceed61fac09be655",
     "triac_control.py": "d45081d06e02c3b7fdc235dec07c401bad8c73867803b04bb04c510320c09f7f",
-    "wifi_manager.py": "f943d357077ee3cbcbf987a4c8951e903f228d7da84b357965b2eddb91bb4e89",
-    "button_control.py": "1ff1e6397f6891385dcc79c7ef3785501194d7045a07c91677d51922f5bb06d1",
+    "wifi_manager.py": "cc20f193b99323aa1d0f0f42d4cbb681c6e470a847dc2f92acb8cce5ee01e02c",
+    "button_control.py": "8277bc0baeddc10e2da8d0e9edb101e3f3de1e5e6ff6051f99da4508f69ca677",
     "captive_portal.py": "974c68080eaff22adda3fe21d58a5d595e92d086d622bb339e5fff84b7d5cb57",
     "server.py": "311e33b94691373349adc6c2c51e2048cd646fa2c5df9baf5a517827adc0f1bd",
     "config.py": "0d464a55ace1c6d43f0da7be57ce65349dd12778e09ae3107e7390521a6cb838"
