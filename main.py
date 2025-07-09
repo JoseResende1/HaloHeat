@@ -13,7 +13,7 @@ def main():
     settings.load_settings(state)
     wifi_active = wifi_manager.connect_to_wifi()
 
-    # Verifica atualizações OTA se estiver ligado ao Wi-Fi
+    #Verifica atualizações OTA se estiver ligado ao Wi-Fi
     if wifi_active:
         try:
             import ota_updater
